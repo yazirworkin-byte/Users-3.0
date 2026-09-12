@@ -76,8 +76,10 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://www.image2url.com/r2/default/videos/1789184392974-5e26e440-a58b-4be7-a509-acf67275e810.mp4]
+*The video is demonstrating a React-based weather prediction/visualization project where the user can generate weather predictions, view AI-generated explanations, see confidence values, and review prediction history.
+
+It appears to be more of a demo/simulation of a weather-AI application rather than a conventional weather app displaying verified live weather data.*
 
 # Additional Demos
 [Add any extra demo materials/links]
